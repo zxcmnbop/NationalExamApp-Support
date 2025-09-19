@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://[你的App圖示的URL]" alt="App Icon" width="128">
+  <img src="https://github.com/zxcmnbop/NationalExamApp-Support/blob/main/e.png" alt="App Icon" width="128">
   <h1>國營考試題庫e點通</h1>
   <p><strong>App 支援與聯絡中心</strong></p>
 </div>
@@ -15,4 +15,17 @@
 ---
 
 ### 聯繫我們 & 問題回報
-... (後面的內容保持不變)
+
+如果您在使用過程中遇到任何問題、發現題目內容有誤，或是有任何功能上的建議，我們都非常歡迎您透過以下方式與我們聯繫。您的每一個回饋，都是我們讓 App 變得更好的重要動力！
+
+ **電子郵件 (Email):** `zxcmnbop@gmail.com`
+
+在回報問題時，如果能附上以下資訊，將有助於我們更快地為您解決問題：
+*   問題的詳細描述
+*   您使用的設備型號 (例如 iPhone 14 Pro)
+*   iOS 系統版本 (例如 iOS 17.1)
+*   問題發生時的螢幕截圖 (如果有的話)
+
+---
+
+再次感謝您的支持，祝您學習愉快，金榜題名！
