@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/zxcmnbop/NationalExamApp-Support/blob/main/e.png" alt="App Icon" width="128">
+  <img src="e.png" alt="App Icon" width="128">
   <h1>國營考試題庫e點通</h1>
   <p><strong>App 支援與聯絡中心</strong></p>
 </div>
